@@ -1,0 +1,6 @@
+db: ortigasland
+user: ortigasland
+pass: password
+
+user: joseph
+pass: password
